@@ -12,3 +12,4 @@ This project was strongly inspired by @voxain's [resource-vault](https://github.
 - [go](go.md)
 - [webdev](webdev.md)
 - [react](react.md)
+- [hosting](hosting.md)
