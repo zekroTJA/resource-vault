@@ -1,4 +1,5 @@
 # React
+My abolsute favorite web app library I've used for several of my open source projects. 
 
 ## Libraries
 - [styled-components](https://github.com/styled-components/styled-components)  

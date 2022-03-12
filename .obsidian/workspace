@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "go.md",
+            "file": "hosting.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go.md",
+                "file": "hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +90,11 @@
   },
   "active": "74878e7173a22815",
   "lastOpenFiles": [
-    "go.md",
     "hosting.md",
-    "README.md",
     "webdev.md",
     "react.md",
+    "go.md",
+    "README.md",
     "go/README.md",
     "pog.md"
   ]
