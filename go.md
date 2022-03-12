@@ -1,4 +1,4 @@
-# Go Resources
+# Go
 
 ## Learn Go
 - [Go Tour](https://go.dev/tour)
