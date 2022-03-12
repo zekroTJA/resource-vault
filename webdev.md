@@ -22,9 +22,9 @@ Some of my favorite fonts I like to use in my applications.
 - [Eva Icons](https://github.com/akveo/eva-icons)
 
 ## Color Palettes
-- [MaterialUI](https://materialui.co/)
+- [MaterialUI](https://materialui.co/)  
   *A collection of common color palettes like Material, Flat UI, Social, Metro, Tailwind or Fluent.*
-- [Adobe Color](https://color.adobe.com/)
+- [Adobe Color](https://color.adobe.com/)  
   *Color tool to generate any sort of matching color palettes.*
-- [Color Hunt](https://colorhunt.co/)
+- [Color Hunt](https://colorhunt.co/)  
   *Collection of various themes of color palettes.*
