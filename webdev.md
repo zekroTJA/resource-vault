@@ -2,7 +2,7 @@
 
 ## Tools
 - [vite](https://github.com/vitejs/vite)  
-  *Module bundler and dev server with HMR which also works well with [[react]].*
+  *Module bundler and dev server with HMR which also works well with [react](react.md).*
 
 ## Fonts
 Some of my favorite fonts I like to use in my applications.
