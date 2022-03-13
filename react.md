@@ -1,6 +1,12 @@
 # React
 My abolsute favorite web app library I've used for several of my open source projects. 
 
+## Learn React
+- [React Playlist by Fireship](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb)  
+  *The YouTuber Fireship created a great row of videos all about React which is very beginner friendly and time efficient to watch through.*
+- [traefik/faency](https://github.com/traefik/faency)  
+  *I also learned a lot about React and best practices by looking though the code of some React projects. Most I learned was from this repo.*
+
 ## Libraries
 - [styled-components](https://github.com/styled-components/styled-components)  
   *A fancy library which allows CSS styling in JS making theaming, binding styles to properties and style abstraction easy.*
