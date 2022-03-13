@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hosting.md",
+            "file": "notetaking.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hosting.md",
+                "file": "notetaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "74878e7173a22815",
   "lastOpenFiles": [
+    "notetaking.md",
     "hosting.md",
     "docker.md",
     "README.md",
