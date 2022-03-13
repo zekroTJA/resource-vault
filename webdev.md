@@ -14,6 +14,7 @@ Some of my favorite fonts I like to use in my applications.
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Rubik](https://fonts.google.com/specimen/Rubik)
+- [Cantarell](https://fonts.google.com/specimen/Cantarell)
 
 ### Monospace
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
