@@ -9,8 +9,9 @@ Also, this vault is subject to be extended at any time I find something new or r
 This project was strongly inspired by [@voxain](https://github.com/voxain)'s [resource-vault](https://github.com/voxain/resource-vault). Please feel free to also take a look at their lists. 😉
 
 ## Index
-- [go](go.md)
-- [webdev](webdev.md)
-- [react](react.md)
-- [hosting](hosting.md)
+- [docker](docker.md)
 - [etc](etc.md)
+- [go](go.md)
+- [hosting](hosting.md)
+- [react](react.md)
+- [webdev](webdev.md)

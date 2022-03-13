@@ -42,6 +42,16 @@ I also created some packages myself which I am also using a lot in my projects, 
   *Generate charts and export them as an image.*
 - [cron](https://github.com/robfig/cron)  
   *Use crontab like expressions to schedule tasks.*
+- [promptui](https://github.com/manifoldco/promptui)  
+  *Build interactive CLI tools with this package.*
+- [tablewriter](https://github.com/olekukonko/tablewriter)  
+  *Print data in ASCII tables.*
+- [resize](https://github.com/nfnt/resize)  
+  *Resize / Rescale images.*
+- [go-qrcode](https://github.com/skip2/go-qrcode)  
+  *Create QR Codes.*
+- [pinger](https://github.com/chenjiandongx/pinger)  
+  *IMCP network ping implementation.*
 
 ## My self-created Packages
 - [timedmap](https://github.com/zekrotja/timedmap)  
