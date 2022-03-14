@@ -5,6 +5,14 @@ General resources for web development.
 - [vite](https://github.com/vitejs/vite)  
   *Module bundler and dev server with HMR which also works well with [react](react.md).*
 
+## Packages / Libraries
+- [i18next](https://github.com/i18next/i18next)  
+  *Extremely versatile translation library for almost any web framework.*
+  - [i18next-browser-languageDetector](https://github.com/i18next/i18next-browser-languageDetector)  
+    *Detection source to automatically detect and set language specified in the browser.*
+  - [i18next-http-backend](https://github.com/i18next/i18next-http-backend)  
+    *Backend to get language definition via HTTP.*
+
 ## Fonts
 Some of my favorite fonts I like to use in my applications.
 

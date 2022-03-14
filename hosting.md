@@ -20,6 +20,8 @@ General resources, applications and tools about self hosting.
   *Self hosted cloud storage service which is also web-dav capable.*
 - [trilium](https://github.com/zadam/trilium)  
   *Self hosted notes database and web application.*
+- [Teamspeak 3](https://hub.docker.com/_/teamspeak)  
+  *Docker image to host a Teamspeak 3 server.*
 
 ---
 ¹ This is a reference link for advertisement. When you use this link I will receive a small cut when you make a pruchase on this site. You will not have any extra cost by using this link.
