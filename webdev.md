@@ -12,6 +12,8 @@ General resources for web development.
     *Detection source to automatically detect and set language specified in the browser.*
   - [i18next-http-backend](https://github.com/i18next/i18next-http-backend)  
     *Backend to get language definition via HTTP.*
+- [color](https://github.com/Qix-/color)  
+  *An awesome JS library for color conversions and calculations which also provides types via `@types/color`.*
 
 ## Fonts
 Some of my favorite fonts I like to use in my applications.
