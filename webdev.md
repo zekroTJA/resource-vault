@@ -14,6 +14,8 @@ General resources for web development.
     *Backend to get language definition via HTTP.*
 - [color](https://github.com/Qix-/color)  
   *An awesome JS library for color conversions and calculations which also provides types via `@types/color`.*
+- [date-fns](https://date-fns.org/)  
+  *A date-time library which is a great and light weight alternative to [Moment.js](https://momentjs.com/).*
 
 ## Fonts
 Some of my favorite fonts I like to use in my applications.
