@@ -16,6 +16,8 @@ General resources for web development.
   *An awesome JS library for color conversions and calculations which also provides types via `@types/color`.*
 - [date-fns](https://date-fns.org/)  
   *A date-time library which is a great and light weight alternative to [Moment.js](https://momentjs.com/).*
+- [debounce](https://github.com/component/debounce)  
+  *Better use this if you want to bind API calls like searches to user input on input elements.*
 
 ## Fonts
 Some of my favorite fonts I like to use in my applications.
