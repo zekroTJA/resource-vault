@@ -35,6 +35,7 @@ Some of my favorite fonts I like to use in my applications.
 - [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
 ## Icons / Logos
+- [tabler Icons](https://tabler-icons.io/)
 - [Heroicons](https://heroicons.dev/)
 - [Simpleicons](https://simpleicons.org/)
 - [Material Icons](https://fonts.google.com/icons)
