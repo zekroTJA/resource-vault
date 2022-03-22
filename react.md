@@ -23,6 +23,8 @@ My abolsute favorite web app library I've used for several of my open source pro
   *Build responsive mason grids.*
 - [react-sortablejs](https://github.com/SortableJS/react-sortablejs)  
   *Create drag-and-drop-able lists.*
+- [react-uid](https://github.com/thearnica/react-uid)  
+  *Simply provides UIDs for as a key for lists of elements in react.*
 
 ## Guides
 - [Migrating a Create React App (CRA) application to Vite](https://www.darraghoriordan.com/2021/05/16/migrating-from-create-react-app-to-vite/)  
