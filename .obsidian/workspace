@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react.md",
+            "file": "etc.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react.md",
+                "file": "etc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +90,11 @@
   },
   "active": "74878e7173a22815",
   "lastOpenFiles": [
+    "etc.md",
     "react.md",
     "webdev.md",
     "docker.md",
     "README.md",
-    "etc.md",
     "go.md",
     "hosting.md",
     "notetaking.md",
