@@ -15,7 +15,7 @@ I've used and tested several apps in the last 5 years or so to manifest my thoug
   *A great application to create knowledge databases which are stored in a local file system using markdown files. This is very useful to create knowledge vaults like this one here but you need to take care about syncing your database yourself. But there are great user plugins like [obsidian-git](https://github.com/denolehov/obsidian-git) which makes syncing your database with a Git repo very easy. It is completely free and has a very intuitive UI. It also supports backlinking.*
 - [diagrams.net](https://app.diagrams.net/)  
   Formerly draw.io - a nice web platform to build charts, diagrams and visualizations. It's free and even open source.
-- [excalidraw](https://excalidraw.com/)  
+- [excalidraw](https://excalidraw.com/)   
   Another very awesome drawn visualizations web app.
 
 ---
