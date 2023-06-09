@@ -1,3 +1,6 @@
+> **Warning**  
+> This repository is deprecated and replaced by [zekroTJA/braindump](https://github.com/zekroTJA/braindump). No new content will be added here in the future.
+
 # Resource Vault
 
 This is my personal vault of general resources and documents for all subjects of development, design and media work.
